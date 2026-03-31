@@ -1,0 +1,11 @@
+Department,Patient_Count,Avg_LOS,Readmission_Rate,Revenue,Staff
+Cardiology,125,8.5,16%,250000,12
+Neurology,98,4.2,11%,180000,8
+Oncology,87,8.0,6%,320000,14
+Orthopedic,76,6.5,8%,140000,7
+Pediatrics,156,2.8,4%,120000,9
+Emergency,124,3.2,22%,100000,15
+Orthopedic,89,6.8,9%,165000,8
+Gastroenterology,67,4.1,7%,95000,6
+Pulmonology,54,5.3,10%,78000,5
+Urology,43,3.9,5%,62000,4
