@@ -1,0 +1,13 @@
+Month,Year,Total_Admissions,ER_Admissions,Scheduled,Readmissions,Mortality_Rate
+January,2026,45,18,27,5,2.2%
+February,2026,38,15,23,4,1.8%
+March,2026,32,12,20,3,1.5%
+April,2026,52,20,32,6,2.3%
+May,2026,48,19,29,5,2.0%
+June,2026,55,22,33,7,2.4%
+July,2026,61,24,37,8,2.5%
+August,2026,58,23,35,7,2.2%
+September,2026,49,18,31,5,1.9%
+October,2026,54,21,33,6,2.1%
+November,2026,50,19,31,5,2.0%
+December,2026,46,17,29,4,1.7%
